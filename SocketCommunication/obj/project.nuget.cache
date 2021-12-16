@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c4dSFfA4mFQsds/v4cXXqhX8Uakb22fE2AHMlLiFo/gaKYlTA+KKOOFUnicqQBTG1fVjhy+HKNFAl1S47d3QaQ==",
+  "dgSpecHash": "Z6f18eK8V+BgLU84us4RHCeaNUEsjTgYOEpSSDPMXZP80D/3L+mnrbtPpdEblaHECTtN2cuTXvFf9n2pbSjt2Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\holee\\source\\repos\\SendClassTest\\SendClassTest\\SocketCommunication.csproj",
+  "projectFilePath": "C:\\Users\\holee\\source\\repos\\SocketCommunication\\SocketCommunication\\SocketCommunication.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

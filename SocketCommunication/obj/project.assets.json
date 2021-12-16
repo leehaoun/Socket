@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\holee\\source\\repos\\SendClassTest\\SendClassTest\\SocketCommunication.csproj",
+      "projectUniqueName": "C:\\Users\\holee\\source\\repos\\SocketCommunication\\SocketCommunication\\SocketCommunication.csproj",
       "projectName": "SocketCommunication",
-      "projectPath": "C:\\Users\\holee\\source\\repos\\SendClassTest\\SendClassTest\\SocketCommunication.csproj",
+      "projectPath": "C:\\Users\\holee\\source\\repos\\SocketCommunication\\SocketCommunication\\SocketCommunication.csproj",
       "packagesPath": "C:\\Users\\holee\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\holee\\source\\repos\\SendClassTest\\SendClassTest\\obj\\",
+      "outputPath": "C:\\Users\\holee\\source\\repos\\SocketCommunication\\SocketCommunication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
