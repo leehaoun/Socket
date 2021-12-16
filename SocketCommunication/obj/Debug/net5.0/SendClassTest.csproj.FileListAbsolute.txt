@@ -1,0 +1,16 @@
+C:\Users\holee\source\repos\SendClassTest\SendClassTest\bin\Debug\net5.0\SendClassTest.exe
+C:\Users\holee\source\repos\SendClassTest\SendClassTest\bin\Debug\net5.0\SendClassTest.deps.json
+C:\Users\holee\source\repos\SendClassTest\SendClassTest\bin\Debug\net5.0\SendClassTest.runtimeconfig.json
+C:\Users\holee\source\repos\SendClassTest\SendClassTest\bin\Debug\net5.0\SendClassTest.runtimeconfig.dev.json
+C:\Users\holee\source\repos\SendClassTest\SendClassTest\bin\Debug\net5.0\SendClassTest.dll
+C:\Users\holee\source\repos\SendClassTest\SendClassTest\bin\Debug\net5.0\ref\SendClassTest.dll
+C:\Users\holee\source\repos\SendClassTest\SendClassTest\bin\Debug\net5.0\SendClassTest.pdb
+C:\Users\holee\source\repos\SendClassTest\SendClassTest\obj\Debug\net5.0\SendClassTest.csproj.AssemblyReference.cache
+C:\Users\holee\source\repos\SendClassTest\SendClassTest\obj\Debug\net5.0\SendClassTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\holee\source\repos\SendClassTest\SendClassTest\obj\Debug\net5.0\SendClassTest.AssemblyInfoInputs.cache
+C:\Users\holee\source\repos\SendClassTest\SendClassTest\obj\Debug\net5.0\SendClassTest.AssemblyInfo.cs
+C:\Users\holee\source\repos\SendClassTest\SendClassTest\obj\Debug\net5.0\SendClassTest.csproj.CoreCompileInputs.cache
+C:\Users\holee\source\repos\SendClassTest\SendClassTest\obj\Debug\net5.0\SendClassTest.dll
+C:\Users\holee\source\repos\SendClassTest\SendClassTest\obj\Debug\net5.0\ref\SendClassTest.dll
+C:\Users\holee\source\repos\SendClassTest\SendClassTest\obj\Debug\net5.0\SendClassTest.pdb
+C:\Users\holee\source\repos\SendClassTest\SendClassTest\obj\Debug\net5.0\SendClassTest.genruntimeconfig.cache
